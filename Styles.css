@@ -1,0 +1,84 @@
+#centeringdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+#LoginDiv {
+    background-color: black;
+    color: white;
+    width: 35%;
+    height: 40%;
+    font-size: larger;
+    opacity: 80%;
+    text-align: center;
+    padding: 5%;
+    margin: 10%;
+}
+#navBar {
+    background-color: black;
+    opacity: 80%;
+    width: 150px;
+    height: 110px; 
+}
+#navBar a {
+    text-decoration: none;
+    color: white;
+    
+}
+#navBar li:hover {
+    background-color: lightgrey;
+}
+#navBar li:hover a{
+    color: black;
+}
+#navBar ul li {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#uR {
+    width: 100%;
+    opacity: 90%;
+}
+#uR th {
+    border: 3px solid black;
+}
+#uR td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 1%;
+}
+#three {
+    width: 15%;
+}
+.one {
+    width: 10%;
+}
+#two {
+    width: 50%;
+}
+#uR{
+    padding: 5%;
+}
+#uR tr:nth-child(even){
+    background-color: bisque;
+}
+#uR tr:nth-child(odd){
+    background-color: rgb(147, 238, 254);
+}
+#form {
+    background-color: bisque;
+    width: 300px;
+    text-align: center;
+    padding: 1%;
+    margin: auto;
+    border: 3px solid black;
+}
+#container {
+    width: 100%;
+}

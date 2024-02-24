@@ -1,3 +1,3 @@
 Recipe_Sharing_App
 
-Recipe sharing application developed in spring 2022
+Recipe sharing application developed in Spring 2022.
